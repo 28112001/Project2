@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: burlywood;
+    background-image: url('blur.jpg');
+}
+.name{
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+.gen{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
